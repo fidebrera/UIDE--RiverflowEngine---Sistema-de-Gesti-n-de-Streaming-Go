@@ -1,4 +1,4 @@
-# BioBookEngine - Módulo 2: Sistema de Gestión de Streaming
+# RiverflowEngine - Módulo 2: Sistema de Gestión de Streaming
 
 ## Datos del Grupo
 * **Institución:** UIDE - Facultad de Ingeniería de Sistemas
